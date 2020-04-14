@@ -1,0 +1,1 @@
+{"ast":null,"code":"import auth0 from '@auth0/nextjs-auth0';","map":{"version":3,"sources":["D:/alberto/curso devpleno/mydailystatus/pages/api/callback.js"],"names":["auth0"],"mappings":"AAAA,OAAOA,KAAP,MAAkB,qBAAlB","sourcesContent":["import auth0 from '@auth0/nextjs-auth0'"]},"metadata":{},"sourceType":"module"}
